@@ -2,7 +2,7 @@
   "name": "run-rn-init",
   "preferGlobal": true,
   "bin": "./index.js",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/reynaldpn/run-rn-init.git"
-  }
+  },
+  "keywords": [
+    "react-native",
+    "init",
+    "cli"
+  ]
 }
