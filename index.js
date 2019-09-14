@@ -11,7 +11,7 @@ let     availableReactNativeVersions = []
 /* ----------------------------------------------------------------------------------------------- */
 
 commander
-    .version('0.2.2')
+    .version('0.2.3')
     .description('run-rn-init')
 
 commander
