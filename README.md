@@ -1,4 +1,4 @@
-# rn-init
+# run-rn-init
 
 Welcome to run-rn-init, this package allows you to specify react-native project name & version of react-native that will be used from up-to-date available react-native list.
 
